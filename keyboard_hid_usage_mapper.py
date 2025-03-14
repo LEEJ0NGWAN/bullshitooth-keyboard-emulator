@@ -2,7 +2,7 @@ import keyboard, json, os
 from datetime import datetime
 
 HID_USAGE_TABLE_FILE = "hid_usage_table.json"
-KEY_HID_MAP_FILE = "key_hid_map.json"
+KEY_HID_MAP_FILE = "keyboard_hid_usage_map.json"
 
 LOG_DIR = 'log'
 LOG_FILE = None
